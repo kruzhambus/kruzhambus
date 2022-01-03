@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maks.mrug.ru@gmail.com**
 
-- ⚡ Fun fact **I love to travel 🛩️**
+- ⚡ Fun fact: **I love to travel 🛩️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
