@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **react, vue, django.**
 
-- 📫 How to reach me **maks.mrug.ru@gmail.com**
-
 - ⚡ Fun fact: **I love to travel 🛩️**
 
 <p align="left">
