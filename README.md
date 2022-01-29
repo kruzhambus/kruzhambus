@@ -10,12 +10,12 @@
 <p align="left">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzhambus&show_icons=true&theme=react )](https://github.com/kruzhambus/kruzhambus)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzhambus&show_icons=true&theme=react )](https://github.com/kruzhambus)
 
 <p align="left">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzhambus&layout=compact&theme=react)](https://github.com/kruzhambus/kruzhambus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzhambus&layout=compact&theme=react)](https://github.com/kruzhambus)
 
 
 
