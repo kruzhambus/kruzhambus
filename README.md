@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzhambus&show_icons=true&theme=react )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kruzhambus&show_icons=true&theme=react )](#)
 
 <p align="left">
 </p>
