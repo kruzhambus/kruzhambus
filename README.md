@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vue**
 
-- 💬 Ask me about **react, vue, django.**
+- 💬 Ask me about **vue**
 
 - ⚡ Fun fact: **I love to travel 🛩️**
 
