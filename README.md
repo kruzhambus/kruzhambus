@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksim.</h1>
-<h3 align="center">I do fullstack development. I really enjoy learning languages and frameworks like Vue, as well as vanilla Javascript.</h3>
+<h3 align="center">I do fullstack development. I really enjoy learning languages and frameworks like React, as well as vanilla Javascript.</h3>
 
 - 🌱 I’m currently learning **vue**
 
