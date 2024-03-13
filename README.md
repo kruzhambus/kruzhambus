@@ -11,17 +11,7 @@ I am proficient in several programming languages and technologies, including:
 - TypeScript
 - NodeJS
 - NestJS
-- Python
-- Django
-
-## Notable Projects
-
-I have several notable projects that I would like to highlight, including:
-- [swetrix-fe](https://github.com/Swetrix/swetrix-fe)
-- [swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix is a privacy-oriented, simple and fully cookie-less web analytics service.
-It provides lots of metrics like unique visitors, live visitors monitoring, custom events, pageviews and many more.
-The service also supports many other features, like dashboard metrics & GDPR exports, email reports and more.
-The project's purpose is to fight web analytics giants like Google Analytics while providing better quality and experience of using service.
+- PHP
 
 ## Collaboration
 
